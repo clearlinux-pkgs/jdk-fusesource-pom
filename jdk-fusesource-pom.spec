@@ -1,6 +1,6 @@
 Name     : jdk-fusesource-pom
 Version  : 1.9
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.9/fusesource-pom-1.9.pom
 Source0  : http://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.9/fusesource-pom-1.9.pom
 Summary  : No detailed summary available
